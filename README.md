@@ -1,5 +1,5 @@
-- 👋 simon-s-99
-- 👀 Interested in IT in general and Software Development
+- 👋 Simon S
+- 👀 Interested in Software Development and IT in general
 - 🌱 I’m currently learning C#
 
 <!---
