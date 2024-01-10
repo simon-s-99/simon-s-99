@@ -1,6 +1,6 @@
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning Entity Framework Core<br/>
+🌱 I’m currently learning JavaScript/TypeScript & HTML/CSS<br/>
 <br/>
 🥷 Skillset: 
 - C# / C++
