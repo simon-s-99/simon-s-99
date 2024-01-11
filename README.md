@@ -1,6 +1,6 @@
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning JavaScript/TypeScript & HTML/CSS<br/>
+🌱 I’m currently learning JavaScript/TypeScript, React.js & HTML/CSS<br/>
 
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
