@@ -16,7 +16,7 @@
 <img alt="TypeScript" width="45px" align="left"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <!-- React.js icon -->
-<img alt="React.js" width="45px" align="left"
+<img alt="React.js" width="45px" align="left,bottom"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <!-- SQL icon -->
 <img alt="SQL" width="45px" align="left"
