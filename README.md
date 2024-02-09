@@ -19,16 +19,16 @@
 <img alt="React.js" width="45px" align="left" style="padding-right:10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <!-- SQL icon -->
-<img alt="SQL" width="45px" align="left" style="padding-right:10px"
+<img alt="SQL" width="45px" align="left" style="padding-right:10px;padding-top:8px"
   src="https://github.com/simon-s-99/simon-s-99/assets/142667693/a4adb32a-a663-4172-a4dd-a8e1a34a116c">
 <!-- HTML5 icon -->
-<img alt="HTML" width="45px" align="left" style="padding-right:10px"
+<img alt="HTML" width="45px" align="left" style="padding-right:10px;padding-top:8px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <!-- CSS3 icon -->
-<img alt="CSS" width="45px" align="left" style="padding-right:10px;"
+<img alt="CSS" width="45px" align="left" style="padding-right:10px;padding-top:8px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <!-- Unity icon -->
-<img alt="Unity" width="45px" align="left" style="padding-right:10px"
+<img alt="Unity" width="45px" align="left" style="padding-right:10px;padding-top:8px"
   src="https://github.com/simon-s-99/simon-s-99/assets/142667693/fa712874-6b47-48a8-a0c4-cfcf1095406b">
 
 <!---
