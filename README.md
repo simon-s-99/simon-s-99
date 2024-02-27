@@ -1,6 +1,6 @@
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning TypeScript & React.js<br/>
+🌱 I’m currently learning React.js<br/>
 
 ### 🏗️ Skillset: 
 <!-- C# icon -->
@@ -16,7 +16,7 @@
 <img alt="TypeScript" width="45px" align="left"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <!-- React.js icon -->
-<img alt="React.js" width="45px" align="left,bottom"
+<img alt="React.js" width="45px" align="left"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <!-- SQL icon -->
 <img alt="SQL" width="45px" align="left"
