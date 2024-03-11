@@ -40,6 +40,7 @@
 ### 📊 Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simon-s-99&hide=stars&show_icons=true&theme=dracula) 
+&emsp;&emsp;&emsp;&emsp;&emsp; <!-- Spacing between cards -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-s-99&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5)
 
 #
@@ -47,6 +48,7 @@
 ### 🔧 Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamkumlin&repo=frontend-todomvc&theme=dracula)](https://github.com/adamkumlin/frontend-todomvc)
+&emsp;&emsp;&emsp; <!-- Spacing between cards -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simon-s-99&repo=vaccination-campaign-priority-scheduler&theme=dracula)](https://github.com/simon-s-99/vaccination-campaign-priority-scheduler)
 
 <!---
