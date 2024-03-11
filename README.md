@@ -40,7 +40,7 @@
 ### 📊 Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simon-s-99&hide=stars&show_icons=true&theme=dracula) 
-&emsp;&emsp;&emsp;&emsp;&emsp; <!-- Spacing between cards -->
+&emsp;&emsp;&emsp;&emsp; <!-- Spacing between cards -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-s-99&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5)
 
 #
