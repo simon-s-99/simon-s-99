@@ -48,7 +48,7 @@
 ### 🔧 Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamkumlin&repo=frontend-todomvc&theme=dracula)](https://github.com/adamkumlin/frontend-todomvc)
-&emsp;&emsp;&emsp; <!-- Spacing between cards -->
+&emsp;&emsp; <!-- Spacing between cards -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simon-s-99&repo=vaccination-campaign-priority-scheduler&theme=dracula)](https://github.com/simon-s-99/vaccination-campaign-priority-scheduler)
 
 <!---
