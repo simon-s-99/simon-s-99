@@ -1,6 +1,6 @@
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning React.js<br/>
+🌱 I’m currently learning ASP.NET & Razor Pages<br/>
 
 #
 
