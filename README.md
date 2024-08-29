@@ -1,6 +1,6 @@
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently doing small projects & Leetcode<br/>
+🌱 I’m currently learning about Microservices, Docker & Kubernetes<br/>
 
 #
 
