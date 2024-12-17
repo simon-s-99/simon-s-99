@@ -1,6 +1,6 @@
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning about Microservices, Docker & Kubernetes<br/>
+🌱 I’m currently learning CI/CD, GitHub Actions & Unit testing<br/>
 
 #
 
