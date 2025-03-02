@@ -1,6 +1,6 @@
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning CI/CD, GitHub Actions & Unit testing<br/>
+🌱 I’m currently doing the second part of my internship at Precio Fishbone Gothenburg<br/>
 
 #
 
@@ -25,7 +25,8 @@
 #
 
 ### 📊 Statistics
+ 
+![GitHub statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=simon-s-99&theme=github_dark)
+![Top languages by repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simon-s-99&theme=github_dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simon-s-99&hide=stars&show_icons=true&theme=dracula) 
-&emsp;&emsp;&emsp;&emsp; <!-- Spacing between cards -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-s-99&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5)
+![](./profile-3d-contrib/profile-night-green.svg)
