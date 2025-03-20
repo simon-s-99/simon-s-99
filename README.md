@@ -25,8 +25,9 @@
 #
 
 ### 📊 Statistics
- 
-![GitHub statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=simon-s-99&theme=github_dark)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=simon-s-99&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 ![Top languages by repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simon-s-99&theme=github_dark)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
