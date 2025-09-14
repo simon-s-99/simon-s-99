@@ -2,7 +2,6 @@
 
 👋 Simon Sörqvist<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently looking for new opportunities as a fullstack developer<br/>
 
 #
 
