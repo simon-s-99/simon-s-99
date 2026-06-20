@@ -35,15 +35,3 @@
   <img alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="10" />
 </div>
-
-#
-
-### 📊 Statistics
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=simon-s-99&theme=github-dark&hide_border=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simon-s-99&theme=github_dark" />
-</div>
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
